@@ -10,3 +10,8 @@ int f_dev()
     return 0;
 }
 
+int f_dev2()
+{
+    printf("this is another function for dev version.\n");
+    return 0;
+}
